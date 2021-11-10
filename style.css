@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+#sketch4{
+    font-size: 40px;
+    margin-right: 1000px;
+}
+#sketch5{
+    font-size: 40px;
+    float: right;
+margin-right: 200px;
+}
+#sketch3{
+font-weight: bold;
+color: red;
+font-size:x-large;
+}
